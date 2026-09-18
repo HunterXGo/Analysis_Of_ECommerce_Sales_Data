@@ -1,0 +1,108 @@
+{
+  "total_revenue": 12642905.0,
+  "total_profit": 1467458.40128,
+  "total_orders": 25035,
+  "total_customers": 4873,
+  "total_quantity": 178311,
+  "average_order_value": 505.0091871380068,
+  "average_revenue_per_customer": 2594.4808126410835,
+  "best_category": {
+    "category": "Technology",
+    "revenue": 4744691,
+    "profit": 663778.73318
+  },
+  "top_product": {
+    "product_name": "Apple Smart Phone, Full Size",
+    "revenue": 86936,
+    "quantity": 171,
+    "profit": 5921.578600000001
+  },
+  "top_geography": {
+    "country": "United States",
+    "revenue": 2297354,
+    "profit": 286398.1317
+  },
+  "discount_profit_correlation": -0.31650953893680495,
+  "discount_profit_pvalue": 0.0,
+  "repeat_customer_share": 0.9125795198029961,
+  "high_value_customers": 1373,
+  "category_table": [
+    {
+      "category": "Technology",
+      "revenue": 4744691,
+      "profit": 663778.73
+    },
+    {
+      "category": "Furniture",
+      "revenue": 4110884,
+      "profit": 285204.72
+    },
+    {
+      "category": "Office Supplies",
+      "revenue": 3787330,
+      "profit": 518474.94
+    }
+  ],
+  "top_products": [
+    {
+      "product_name": "Apple Smart Phone, Full Size",
+      "revenue": 86936,
+      "quantity": 171,
+      "profit": 5921.58
+    },
+    {
+      "product_name": "Cisco Smart Phone, Full Size",
+      "revenue": 76441,
+      "quantity": 139,
+      "profit": 17238.52
+    },
+    {
+      "product_name": "Motorola Smart Phone, Full Size",
+      "revenue": 73159,
+      "quantity": 134,
+      "profit": 17027.11
+    },
+    {
+      "product_name": "Nokia Smart Phone, Full Size",
+      "revenue": 71904,
+      "quantity": 147,
+      "profit": 9938.2
+    },
+    {
+      "product_name": "Canon imageCLASS 2200 Advanced Copier",
+      "revenue": 61600,
+      "quantity": 20,
+      "profit": 25199.93
+    },
+    {
+      "product_name": "Hon Executive Leather Armchair, Adjustable",
+      "revenue": 58200,
+      "quantity": 169,
+      "profit": 5997.25
+    },
+    {
+      "product_name": "Office Star Executive Leather Armchair, Adjustable",
+      "revenue": 50667,
+      "quantity": 141,
+      "profit": 4710.98
+    },
+    {
+      "product_name": "Harbour Creations Executive Leather Armchair, Adjustable",
+      "revenue": 50120,
+      "quantity": 142,
+      "profit": 10427.33
+    },
+    {
+      "product_name": "Samsung Smart Phone, Cordless",
+      "revenue": 48654,
+      "quantity": 108,
+      "profit": -198.09
+    },
+    {
+      "product_name": "Nokia Smart Phone, with Caller ID",
+      "revenue": 47880,
+      "quantity": 96,
+      "profit": 9465.33
+    }
+  ]
+}

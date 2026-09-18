@@ -1,0 +1,9 @@
+{
+  "available": true,
+  "implementation": "NumPy least-squares fallback (install scikit-learn for the requested implementation)",
+  "train_months": 38,
+  "test_months": 10,
+  "mae": 97409.41953167744,
+  "rmse": 106565.78366379713,
+  "r2": 0.048610620039018615
+}
